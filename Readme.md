@@ -58,6 +58,13 @@ To run this project on your local machine, follow these steps:
 ## Output Images
 
 In the `assets/` folder, you can find images such as:
+![Data](assets/data.png)
+![Workflow](assets/Workflow.png)
+![Logistic Regression Model](assets/Logistic_Regression.png)
+![Mode Training](assets/Model_training.png)
+![Final Data After Preprocessing](assets/Model_architecture.png)
+![Model Output-1](assets/output-1.png)
+![Model Output-2](assets/output-2.png)
 
 ## References
 
